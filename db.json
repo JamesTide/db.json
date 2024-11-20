@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "João Silva",
+      "email": "joao.silva@example.com",
+      "tasks": [
+        {
+          "taskId": 101,
+          "title": "Reunião com equipe",
+          "description": "Discutir metas do projeto X",
+          "dueDate": "2024-11-21",
+          "status": "incomplete"
+        },
+        {
+          "taskId": 102,
+          "title": "Revisar documentos",
+          "description": "Revisar a documentação técnica do projeto Y",
+          "dueDate": "2024-11-22",
+          "status": "complete"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Maria Oliveira",
+      "email": "maria.oliveira@example.com",
+      "tasks": [
+        {
+          "taskId": 201,
+          "title": "Atualizar planilha de custos",
+          "description": "Incluir novos dados e revisar cálculos",
+          "dueDate": "2024-11-23",
+          "status": "incomplete"
+        },
+        {
+          "taskId": 202,
+          "title": "Preparar apresentação",
+          "description": "Criar slides para a reunião trimestral",
+          "dueDate": "2024-11-24",
+          "status": "incomplete"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Carlos Santos",
+      "email": "carlos.santos@example.com",
+      "tasks": [
+        {
+          "taskId": 301,
+          "title": "Organizar arquivos",
+          "description": "Classificar e arquivar documentos antigos",
+          "dueDate": "2024-11-25",
+          "status": "in progress"
+        },
+        {
+          "taskId": 302,
+          "title": "Treinamento de segurança",
+          "description": "Participar do workshop de segurança no trabalho",
+          "dueDate": "2024-11-26",
+          "status": "complete"
+        }
+      ]
+    }
+  ]
+}
